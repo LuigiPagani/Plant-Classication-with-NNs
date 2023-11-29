@@ -18,12 +18,9 @@ Key aspects and techniques explored include:
 - Transfer learning with VGG16, EfficientNet, ConvNeXt etc.
 - CNN architecture search and tuning
 - L1/L2 regularization, dropout
-- Self-supervised pretraining (SimCLR)
+- Self-supervised contrastive learning pretraining (SimCLR)
 - Test time augmentation
 
-## Usage
-
-Jupyter notebooks provide end-to-end examples of the model development pipeline. Pretrained models are provided for evaluation on new data.
 
 
 ## Authors
