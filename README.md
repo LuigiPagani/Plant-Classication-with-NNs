@@ -21,6 +21,13 @@ Key aspects and techniques explored include:
 - Self-supervised contrastive learning pretraining (SimCLR)
 - Test time augmentation
 
+  ## Authors
+
+- Luigi Pagani ([@LuigiPagani](https://github.com/LuigiPagani))
+- Flavia Petruso ([@fl-hi1](https://github.com/fl-hi1))
+- Federico Schermi ([@federicoschermi](https://github.com/federicoschermi))
+
+
 
 
 ## Authors
